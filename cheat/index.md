@@ -15,7 +15,7 @@ This is a README MD.
 
 ## 封号提示
 
-> 请三思，如果让你的同伴踏上这趟旅途，那么，有可能永远也不能把他拉回来。
+*(comeing soon...)*
 
 <!--GlobalComponent1 />
 <script setup>

@@ -7,26 +7,6 @@ editLink: true
 
 如何快速跑图。
 
-## 神瞳传送
-
-> 检查周围神瞳的有效点位并传送。
-
-![Oculi_Teleport.png](image/Oculi_Teleport.png)
-
-### 就近传送
-
-使用指定按键传送到最近的有效点位。
-
-- 若有有效点位 则会在[<font>**`信息面板`**</font>](#)-[<font>**`传送`**</font>](#)-[<font>**`神瞳`**</font>](#)显示有效点位的距离。
-
-- 在没有有效点位时将不会进行传送。
-
-### 神瞳 列表
-
-显示周围所有神瞳的有效点位。
-
-- 可以点击`Teleport`传送到指定的点位。
-
 ## 宝箱传送
 
 > 检查周围选定宝箱或见闻的有效点位并传送。
@@ -77,31 +57,73 @@ editLink: true
 
 - 可以点击`Teleport`传送到指定的点位。
 
-- 若存在的宝箱没有被标记为宝箱 请在 [此Discord频道](https://discord.com/channels/1026295403282436097/1073216872931151922) 上提供反馈。
+- 若大世界存在的宝箱没有被Bkebi-GC标记为宝箱 则在 [此Discord频道](https://discord.com/channels/1026295403282436097/1073216872931151922) 上提供反馈。
 
-## 自定义传送 PRO
+## 自定义传送
 
-> 创建或加载自定义点位进行传送。
+> 创建或加载自定义点位的传送文件进行传送。
 
-### 启用
+### 名称
 
-是否启用[<font>**`自定义传送 PRO`**</font>](#自定义传送-pro)。
+设定将要创建的传送文件的昵称。
 
-### 自动传送
+### 描述
+
+设定将要创建的传送文件的昵称。
+
+### 添加传送文件
+
+在`./teleports`目录创建一个名为[<font>**`名称`**</font>](#名称) 描述为[<font>**`名称`**</font>](#描述) 目前位置的传送文件。
+
+### 重新加载文件
+
+重新加载`./teleports`目录下所有传送文件。
+
+### 打开文件夹
+
+使用资源管理器打开存放传送文件的`./teleports`目录。
+
+### 从JSON中加载
+
+在`./teleports`目录创建一个使用指定JSON信息的传送文件。
+
+### JSON输入框
+
+设定[<font>**`从JSON中加载`**</font>](#从json中加载)时传送文件的信息。
+
+---
+
+### 传送下一个
+
+使用快捷键快速传送点下一个点位。
+
+- 默认按键: `RightBracket` (右括号)
+
+### 传送上一个
+
+使用快捷键快速传送点上一个点位。
+
+- 默认按键: `LeftBracket` (左括号)
+
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
+
+是否启用[<font>**`自定义传送`**</font>](#自定义传送)。
+
+### 使用插值模式 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
+
+使用指定速度倍率进行移动。
+
+### 插值速度
+
+设定速度倍率。
+
+- 建议低于或等于`0.1`。
+
+- 范围: `0.1 ~ 99`
+
+### 自动传送 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 自动根据传送点位顺序传送接下来的每一个点位。
-
-#### 智能传送
-
-???<font color=ffffff>按距离由近及远传送 而不是传送点位顺序。???</font>
-
-#### 近距离传送延迟减少
-
-??<font color=ffffff>如果距离这一次的点位不足50米 则会通过设定的倍率来减少延迟以提高效率。???</font>
-
-- ???<font color=ffffff>例: 距离不足50米 自动传送的延迟为20秒 设定此项为0.75 则延迟为20秒*0.75=15秒。???</font>
-
-- 范围: `??? ~ ???`
 
 ### 随机延迟
 
@@ -127,15 +149,95 @@ editLink: true
 
 - 范围: `1 ~ 60`
 
+---
+
+### 删除选中
+
+删除下面列表中勾选的传送文件。
+
+### 传送
+
+传送文件列表。
+
+- 可加载第三方传送文件 有关获取传送文件以及更多信息请移步至 [JSON传送](/hack/resources/JSON_Teleport) 。
+
+#### 传送 (TP)
+
+传送到对应的位置。
+
+#### 插值 (Lerp)
+
+使用设定的[<font>**`插值速度`**</font>](#插值速度)移动到对应的位置。
+
+#### 选择 (Select)
+
+加载此项传送文件以从此项开始传送。
+
+### 已选择 (Selected)
+
+目前正在进行的传送文件。
+
+## 自定义传送 Pro
+
+> ???<font color=ffffff>创建或加载含有自定义传送节点的传送文件以快速收集等。???</font>
+
+:::info
+敬请期待...
+:::
+
+### 启用
+
+???<font color=ffffff>是否启用 自定义传送 PRO 。???</font>
+
+### 自动传送
+
+???<font color=ffffff>自动根据传送点位顺序传送接下来的每一个点位。???</font>
+
+### 智能传送
+
+???<font color=ffffff>按距离由近及远传送 而不是传送点位顺序。???</font>
+
+### 快速传送
+
+???
+
+- ???<font color=ffffff>此功能仅Debug构建。???</font>
+
+- ???<font color=ffffff>使用此功能可能会面临风险。???</font>
+
+### 随机延迟
+
+???<font color=ffffff>使用随机延迟自动传送。???</font>
+
+- ???<font color=ffffff>此选项将覆盖 自动传送延迟(秒) 。???</font>
+
+#### 最小延迟 (秒)
+
+???<font color=ffffff>设定自动传送的最小延迟。???</font>
+
+- 范围: `??? ~ ???`
+
+#### 最大延迟 (秒)
+
+???<font color=ffffff>设定自动传送的最大延迟。???</font>
+
+- 范围: `??? ~ ???`
+
+### 自动传送延迟(秒)
+
+???<font color=ffffff>设定自动传送的延迟。???</font>
+
+- 范围: `??? ~ ???`
+
 ### 传送下一个
 
-使用快捷键快速传送点下一个点位。
+???<font color=ffffff>使用快捷键快速传送点下一个点位。???</font>
 
-### 快速添加当前位置到当前数据
+### 快速将当前位置添加到当前数据
 
-???<font color=ffffff>使用快捷键快速添加当前位置到当前所选择的点位。???</font>
+???<font color=ffffff>使用快捷键快速将当前角色所在的位置添加到当前所选择的点位。???</font>
 
-### 自动传送结束执行命令
+### 自动传送结束后执行命令行
 
 ???<font color=ffffff>在自动传送的所有点位传送完成后执行一次命令行。???</font>
 
@@ -145,31 +247,43 @@ editLink: true
 
 - ???<font color=ffffff>例:  shutdown -s -t 60  (一分钟后关闭计算机)???</font>
 
-#### 文件列表
+### 文件列表
 
 ???<font color=ffffff>管理传送文件。???</font>
 
-- 可加载第三方传送文件 有关获取传送文件以及更多信息请移步至 [JSON传送](/hack/resources/JSON_Teleport) 。
+- ???<font color=ffffff>可加载第三方传送文件 有关获取传送文件以及更多信息请移步至 JSON传送 。???</font>
 
 #### 名称
 
-设定将要创建的传送文件的昵称。
+???<font color=ffffff>设定将要创建的传送文件的昵称。???</font>
 
 #### 描述
 
-设定将要创建的传送文件的昵称。
+???<font color=ffffff>设定将要创建的传送文件的昵称。???</font>
 
-#### 添加传送文件
+#### 创建新文件
 
-创建一个名为[<font>**`名称`**</font>](#名称) 描述为[<font>**`名称`**</font>](#描述) 的传送文件。
+???<font color=ffffff>在 ./teleports 目录创建一个名为 名称 描述为 描述 的传送文件。???</font>
+
+#### 重新加载文件
+
+???<font color=ffffff>重新加载 ./teleports 目录下所有传送文件。???</font>
 
 #### 打开文件夹
 
-使用文件管理器打开传送文件的文件夹。
+???<font color=ffffff>使用资源管理器打开存放传送文件的 ./teleports 目录。???</font>
+
+#### 合并选定文件
+
+???<font color=ffffff>将所有选择的文件中的点位数据合并到最前面选择的文件中。???</font>
 
 #### 当前传送文件
 
-???<font color=ffffff>目前正在使用的传送文件。???</font>
+???<font color=ffffff>目前正在进行的传送文件。???</font>
+
+#### 当前传送文件地图
+
+???<font color=ffffff>目前正在进行的传送文件所对应的地图。???</font>
 
 #### 搜索
 
@@ -177,25 +291,47 @@ editLink: true
 
 #### 选择
 
-???<font color=ffffff>选择此项传送文件进行准备传送。???</font>
+???<font color=ffffff>加载此项传送文件以从此项的节点开始传送。???</font>
 
 #### 重置传送记录
 
-???<font color=ffffff>重置此项传送文件里所有点位的传送记录。???</font>
+???<font color=ffffff>重置此项传送文件里的所有节点 已传送的 状态。???</font>
 
 #### 删除文件
 
-???<font color=ffffff>删除此线传送文件。???</font>
+???<font color=ffffff>删除此项传送文件。???</font>
 
-### 传送点位
+#### 清除所选记录
+
+???<font color=ffffff>重置所选传送文件里的所有节点 已传送的 状态。???</font>
+
+#### 删除选定的文件
+
+???<font color=ffffff>删除所选传送文件。???</font>
+
+### 传送节点
 
 ???<font color=ffffff>管理 当前传送文件 的所有传送点位。???</font>
 
-- ???<font color=ffffff>点击 传送 即可传送到对应项的位置。???</font>
-
 - ???<font color=ffffff>X Y Z 即为点位数据。???</font>
 
-- ???<font color=ffffff>若使用传送点位 则 已传送 会标记为 是。???</font>
+- ???<font color=ffffff>若传送到一个传送节点 则对应的 已传送的 状态会标记为 是。???</font>
+
+#### 传送
+
+???<font color=ffffff>传送到对应节点的位置。???</font>
+
+#### 删除
+
+???<font color=ffffff>删除对应的节点。???</font>
+
+### 添加当前位置坐标
+
+???<font color=ffffff>添加一项当前位置的节点。???</font>
+
+### 删除选定位置坐标
+
+???<font color=ffffff>删除所选的节点。???</font>
 
 ## 地图传送
 
@@ -203,7 +339,7 @@ editLink: true
 
 ![Map_Teleport.png](image/Map_Teleport.png)
 
-### 启用
+### 启用 <font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`地图传送`**</font>](#地图传送)。
 
@@ -223,13 +359,35 @@ editLink: true
 
 - 设定的快捷键为 `None` 时 仅使用`鼠标左击`即可传送。
 
+- 若要切换生效 则设定此处为 `None` 并在 [热键](/cheat/bkebi-gc/08_hotkeys) 处设定按键 。
+
+## 神瞳传送
+
+> 检查周围神瞳的有效点位并传送。
+
+![Oculi_Teleport.png](image/Oculi_Teleport.png)
+
+### 就近传送
+
+使用指定按键传送到最近的有效点位。
+
+- 若有有效点位 则会在[<font>**`信息面板`**</font>](#)-[<font>**`传送`**</font>](#)-[<font>**`神瞳`**</font>](#)显示有效点位的距离。
+
+- 在没有有效点位时将不会进行传送。
+
+### 神瞳 列表
+
+显示周围所有神瞳的有效点位。
+
+- 可以点击`Teleport`传送到指定的点位。
+
 ## 任务点传送
 
 > 按下快捷键快速传送到任务追踪目标。
 
 ![Quest_Teleport.png](image/Quest_Teleport.png)
 
-### 任务点传送
+### 任务点传送 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`任务点传送`**</font>](#任务点传送)。
 

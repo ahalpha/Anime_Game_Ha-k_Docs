@@ -7,7 +7,7 @@ editLink: true
 
 "`Hallo World`"零基础教程，三分钟从入门到高级(<font color=ffffff>放弃</font>)。
 
-### 立即打开队伍界面
+### 立即打开队伍界面 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 在打开队伍配置时 将不会有2秒的非战斗等待时间。
 
@@ -25,7 +25,7 @@ editLink: true
 
 ![Show_Level-Up_Dialog_For_Substat_Rolls.png](image/Show_Level-Up_Dialog_For_Substat_Rolls.png)
 
-### 敌人变傻
+### 敌人变傻 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 所有魔物将不会对玩家发起任何攻击行为。
 
@@ -33,7 +33,7 @@ editLink: true
 
 ![Dumb_Enemies.gif](image/Dumb_Enemies.gif)
 
-### 冻结敌人
+### 冻结敌人 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 停止所有魔物的动作。
 
@@ -41,7 +41,7 @@ editLink: true
 
 ![Freeze_Enemies.gif](image/Freeze_Enemies.gif)
 
-### 永久元素视野
+### 永久元素视野 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 元素视野将保持启用状态。
 
@@ -51,13 +51,13 @@ editLink: true
 
 > 自动收集元素微粒等挑战道具。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动挑战`**</font>](#自动挑战)。
 
 ![Auto_Challenge.gif](image/Auto_Challenge.gif)
 
-### 引爆炸药桶
+### 引爆炸药桶 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 自动引爆炸药桶。
 
@@ -81,7 +81,7 @@ editLink: true
 
 收集指定的道具。
 
-#### 启用自定义挑战
+#### 启用自定义挑战 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自定义挑战`**</font>](#自定义挑战)。
 
@@ -93,7 +93,7 @@ editLink: true
 
 指定需要收集的道具的[<font>**`道具ID`**</font>](#道具id)。
 
-- 可在[<font>**`调试`**</font>](#调试)-[<font>**`显示的昵称`**</font>](#实体管理器)-[<font>**`实体管理器`**</font>](#实体列表)中`ID`列获取周围道具的[<font>**`道具ID`**</font>](#道具id)。
+- 可在 [调试 - 实体管理器 - 实体列表](/cheat/bkebi-gc/09_debug#实体列表-entity-list) 中的`ID`列获取周围道具的[<font>**`道具ID`**</font>](#道具id)。
 
 #### 添加
 
@@ -103,13 +103,13 @@ editLink: true
 
 > 快速完成烹饪操作。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动烹饪`**</font>](#自动烹饪)。
 
 ![Auto_Cook.gif](image/Auto_Cook.gif)
 
-### 快速熟练
+### 快速熟练 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 快速完成手动烹饪。
 
@@ -135,18 +135,18 @@ editLink: true
 使用此功能可能会面临风险。
 :::
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动摧毁物体`**</font>](#自动摧毁物体)。
 
 - 可选类型: 
-  - `矿物` 矿物及其变种 包括电气水晶、晶化骨髓等。
-  - `护盾` 深渊法师/深渊使徒/史莱姆的护盾。
-  - `杂物` 桶、箱、花瓶等。
-  - `植物` 蒲公英种子、绯樱绣球等。
-  - `特殊对象` 雪山大冰块、大小石堆。
-  - `特殊宝箱` 宝箱上的荆棘、冰块、石头。
-    - 此项可能会摧毁地脉花 使其不可见！
+  - `矿物` 矿物及其变种 包括电气水晶、晶化骨髓等。<font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
+  - `护盾` 深渊法师/深渊使徒/史莱姆的护盾。<font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
+  - `杂物` 桶、箱、花瓶等。<font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
+  - `植物` 蒲公英种子、绯樱绣球等。<font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
+  - `特殊对象` 雪山大冰块、大小石堆。<font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
+  - `特殊宝箱` 宝箱上的荆棘、冰块、石头。<font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
+    - 此项可能会摧毁地脉花 使其不可见！<font size="2" color="#1ea4ed">&nbsp;<热键>&nbsp;</font>
 
 #### 范围 (米)
 
@@ -160,7 +160,7 @@ editLink: true
 
 > 当前上钩的鱼立即入包。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动钓鱼`**</font>](#自动钓鱼)。
 
@@ -202,11 +202,11 @@ editLink: true
 
 ![Auto-Pickup.gif](image/Auto-Pickup.gif)
 
-#### 启用
+#### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动拾取`**</font>](#自动拾取)。
 
-#### 当背包上限时自动关闭
+#### 当背包上限时自动关闭 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 当背包达到上限时关闭[<font>**`自动拾取`**</font>](#自动拾取)。
 
@@ -216,7 +216,7 @@ editLink: true
 
 ![Auto-Treasure.gif](image/Auto-Treasure.gif)
 
-#### 启用
+#### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动交互`**</font>](#自动交互)。
 
@@ -237,7 +237,7 @@ editLink: true
 
 ![Custom_Pickup_Range.png](image/Custom_Pickup_Range.png)
 
-#### 启用
+#### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`范围拾取`**</font>](#范围拾取)。
 
@@ -265,7 +265,7 @@ editLink: true
 
 - `随机间隔` = [<font>**`延迟时间(毫秒)`**</font>](#延迟时间-毫秒) ~ {[<font>**`延迟时间(毫秒)`**</font>](#延迟时间-毫秒)+[<font>**`延迟范围+(毫秒)`**</font>](#延迟范围-毫秒)}
 
-#### 启用
+#### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`随机拾取延迟`**</font>](#随机拾取延迟)。
 
@@ -277,7 +277,7 @@ editLink: true
 
 过滤自动拾取的某一些收集物品。
 
-#### 启用
+#### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`拾取过滤`**</font>](#拾取过滤)。
 
@@ -313,8 +313,10 @@ editLink: true
   - `死域` ???<font color=ffffff>自动清除死域。???</font>
   - `莲莲果` ???<font color=ffffff>自动摧毁莲莲果。???</font>
   - `风史莱姆` ???<font color=ffffff>自动摧毁风史莱姆。???</font>
-  - `岩方碑` ???
+  - `岩方碑` ???<font color=ffffff>会在岩石碑周围生成岩种子 需要自行激活。???</font>
   - `参量质变仪` ???<font color=ffffff>自动充能参量质变仪。???</font>
+  - `每日委托` ???
+  - `风车` ???
 
 #### 范围 (米)
 
@@ -332,7 +334,7 @@ editLink: true
 
 > 使仙灵自动归位。
 
-### 自动仙灵
+### 自动仙灵 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 触碰一次仙灵即可使其归位。
 
@@ -350,7 +352,7 @@ editLink: true
 
 > 与NPC交互时自动跳过对话。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动对话`**</font>](#自动对话)。
 
@@ -362,19 +364,21 @@ editLink: true
 
 - 设定的快捷键为 `None` 时 将会一直启用[<font>**`自动对话`**</font>](#自动对话)。
 
-### 自动选择对话选项
+- 若需要切换生效 则设定此处为 `None` 并在 [热键](/cheat/bkebi-gc/08_hotkeys) 处设置按键 。
+
+### 自动选择对话选项 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 自动选择对话选项。
 
 - 仅能选择第一项。
 
-#### 排除 凯瑟琳/壶灵/铁匠
+#### 排除 凯瑟琳/壶灵/铁匠 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 与凯瑟琳/壶灵/铁匠对话时 不会自动选择对话选项。
 
 ![Exclude_Katheryne-Tubby-Wagner.png](image/Exclude_Katheryne-Tubby-Wagner.png)
 
-### 对话加速
+### 对话加速 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 在对话时启用全局加速。
 
@@ -384,7 +388,7 @@ editLink: true
 
 - 范围: `2 ~ 50`
 
-### 跳过过场动画
+### 跳过过场动画 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 自动跳过游戏动画。
 
@@ -404,7 +408,7 @@ editLink: true
 使用此功能可能会面临风险。
 :::
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`自动砍树`**</font>](#自动砍树)。
 
@@ -440,7 +444,7 @@ editLink: true
 
 ## 元素光环?
 
-> ???<font color=ffffff>对周围的需要特殊元素的实体如一些谜题、收藏品和一些具有元素盾牌的魔物等施加元素。???</font>
+> ???<font color=ffffff>不断对周围的所有物体施加元素。???</font>
 
 :::info
 敬请期待...
@@ -506,7 +510,7 @@ editLink: true
 
 > 设定本地的游戏时间为`h`:`s`。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`伪装时间`**</font>](#伪装时间)。
 
@@ -536,7 +540,7 @@ editLink: true
 使用此功能可能会面临风险。
 :::
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`全局加速`**</font>](#全局加速)。
 
@@ -546,11 +550,13 @@ editLink: true
 
 ### 热键
 
-设定切换[<font>**`全局加速`**</font>](#全局加速)的快捷键。
+设定按下生效[<font>**`全局加速`**</font>](#全局加速)的快捷键。
 
 - 设定的快捷键不为 `None` 时 仅在按住 [<font>**`热键`**</font>](#热键) 时启用[<font>**`全局加速`**</font>](#全局加速)。
 
 - 设定的快捷键为 `None` 时 将会一直启用[<font>**`全局加速`**</font>](#全局加速)。
+
+- 若需要切换生效 则设定此处为 `None` 并在 [热键](/cheat/bkebi-gc/08_hotkeys) 处设置按键 。
 
 ### 倍率
 
@@ -562,7 +568,7 @@ editLink: true
 
 > 自动击杀范围内的所有生物。
 
-### 启动 杀戮光环
+### 启动 杀戮光环 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`杀戮光环`**</font>](#杀戮光环)。
 
@@ -576,19 +582,19 @@ editLink: true
 
 - ???<font color=ffffff>使用此功能可能会面临风险。???</font>
 
-### 坠落伤害模式
+### 坠落伤害模式 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 使用坠落伤害进行攻击。
 
 - 白色无暴击伤害数值提示。
 
-#### 伤害数值 (非百分比模式)
+#### 伤害数值
 
 指定伤害数值进行攻击。
 
 - 范围: `0 ~ 10000000`
 
-#### 击杀次数 (百分比模式)
+#### 百分比模式 (击杀次数) <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 指定击杀次数推断造成的伤害数值进行攻击。
 
@@ -596,7 +602,7 @@ editLink: true
 
 ![Crash_Damage_Mode.gif](image/Crash_Damage_Mode.gif)
 
-### 即死模式
+### 即死模式 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 直接清除实体。
 
@@ -634,7 +640,7 @@ editLink: true
 
 > 范围内的选定生物将会移至玩家正前方。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`生物吸附`**</font>](#生物吸附)。
 
@@ -642,7 +648,7 @@ editLink: true
 
 ![Mob_Vacuum.gif](image/Mob_Vacuum.gif)
 
-### 怪物 (包括怪物)
+### 怪物 (包括怪物) <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否生效于魔物。
 
@@ -651,7 +657,7 @@ editLink: true
   - `精英` 精英类魔物 如遗迹守卫等。
   - `Boss` BOSS类魔物 如无相之雷等。
 
-### 动物 (包括动物)
+### 动物 (包括动物) <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否生效于动物。
 
@@ -664,7 +670,7 @@ editLink: true
 
 使吸附对象立即移动至玩家正前方。
 
-### 移除碰撞器
+### 移除碰撞器 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 移除所有实体的碰撞箱 使你无法被任何生物推动。
 
@@ -694,7 +700,7 @@ editLink: true
 
 > 替换生成的生物为指定生物。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`怪物替换`**</font>](#怪物替换)。
 
@@ -716,7 +722,7 @@ editLink: true
 
 自定义替换后的`生物ID`。
 
-- 可在[<font>**`GM表`**</font>](/hack/resources/GM_Handbook)中获取`生物ID`。
+- 可在 [GM表](/hack/resources/GM_Handbook) 中获取`生物ID`。
 
 - 范围: `1 ~ 1000000000`
 
@@ -730,9 +736,11 @@ editLink: true
 
 > 范围内的选定掉落物将会移至玩家正前方。
 
-### 启用
+### 启用 <font size="2" color="#5FC3E4">&nbsp;<热键>&nbsp;</font>
 
 是否启用[<font>**`掉落物吸附`**</font>](#掉落物吸附)。
+
+- 启用后部分被吸附的物品可能无法被拾取。
 
 ![Vacuum_Loot.gif](image/Vacuum_Loot.gif)
 
@@ -740,25 +748,25 @@ editLink: true
 
 每一次移动掉落物的间隔。
 
-范围: `0 ~ 1000`
+- 范围: `0 ~ 1000`
 
 ### 范围 (米)
 
 设定对普通物品的的生效范围。
 
-范围: `5 ~ 100`
+- 范围: `5 ~ 100`
 
 ### 生物掉落物吸附半径(米)
 
 设定对生物掉落物的的生效范围。
 
-范围: `5 ~ 100`
+- 范围: `5 ~ 100`
 
 ### 距离(米)
 
 设定掉落物吸附在玩家正前方的距离。
 
-范围: `1 ~ 10`
+- 范围: `1 ~ 10`
 
 ### 拾取类型
 
