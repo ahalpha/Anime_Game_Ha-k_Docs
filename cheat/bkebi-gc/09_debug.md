@@ -7,39 +7,37 @@ editLink: true
 
 开发者选项。
 
-### 防止屏幕截图
-
-使截取的屏幕中游戏窗口消失。
-
-- 在 Windows 1903 以下的版本表现为画面黑屏的状态。
-
 ### 实体管理器
 
 实体管理器。
 
-#### 实体数量 (Entity Count) 
+#### 实体数量
 
-目前已加载实体的数量。
+当前已加载实体的数量。
 
-#### 过滤 (Entity Name Filter) 
+---
 
-过滤[<font>**`实体列表`**</font>](#实体列表)。
+#### 筛选器 
 
-#### 实体名称过滤器 (Entity Name Filter) 
+用于过滤[<font>**`实体列表`**</font>](#实体列表)。
+
+#### 实体名称筛选器
 
 按实体名称过滤[<font>**`实体列表`**</font>](#实体列表)。
 
-#### 半径过滤 (Filter by Radius) 
+#### 按半径过滤
 
 按实体与玩家的距离过滤[<font>**`实体列表`**</font>](#实体列表)。
 
-#### 半径 (Radius)
+#### 半径
 
 设定过滤半径。
 
 - 范围: `0 ~ 100`
 
-#### 生成 (Spawner)
+---
+
+#### 实体生成器
 
 生成工具或生物。
 
@@ -47,83 +45,85 @@ editLink: true
 
 - 多人游戏下 仅自己可见。
 
-#### 工具ID (Gadget ID)
+#### 生成 Gadget
 
-设定[<font>**`工具ID`**</font>](#工具id)。
+使用指定`Gadget ID`生成工具。
 
-- 可在 [GM表](/hack/resources/GM_Handbook) 中获取[<font>**`工具ID`**</font>](#工具id)。
+- 可在 [GM表](/hack/resources/GM_Handbook) 中获取`Gadget ID`。
 
-#### 生成工具 (Spawn Gadget)
+#### 生成 NPC (Spawn NPC)
 
-使用指定[<font>**`工具ID`**</font>](#工具id)生成工具。
+使用指定`NPC ID`生成NPC。
 
-#### 怪物ID (Monster ID)
+- 可在 [GM表](/hack/resources/GM_Handbook) 中获取`NPC ID`。
 
-设定`生物ID`。
-
-- 可在 [GM表](/hack/resources/GM_Handbook) 中获取`生物ID`。
-
-#### 生成怪物 (Spawn Monster)
+#### 生成怪物
 
 使用指定`生物ID`生成工具。
 
-#### 类型过滤 (Type Filter)
+- 可在 [GM表](/hack/resources/GM_Handbook) 中获取`生物ID`。
+
+---
+
+#### 类型筛选器
 
 按实体类型过滤[<font>**`实体列表`**</font>](#实体列表)。
 
 - 可选择: `AOE` `ActivityInteractGadget` `AirflowField` `AmberWind` `AttackPhyisicalUnit` `Avatar` `BlackMud` `Bullet` `Bush` `Camera` `Chest` `CoinCollectLevelGadget` `CustomGadget` `CustomTile` `DangerZone` `DeshretObeliskGadget` `DropItem` `EchoShell` `ElemCrystal` `EnergyBall` `EnvAnimal` `EnviroArea` `Equip` `EyePoint` `Field` `FishPool` `FishRod` `Foundation` `Gadget` `GatherObject` `GatherPoint` `Gear` `GeneralRewardPoint` `Grass` `HomeGatherObject` `Level` `Lightning` `MPLevel` `MiracleRing` `Monster` `MonsterEquip` `MpPlayRewardPoint` `NPC` `NightCrowGadget` `None` `OfferingGadget` `Partner` `PlaceHolder` `Platform` `PlayTeam` `Projector` `QuestGadget` `RemoteAvatar` `RewardPoint` `RewardStatue` `RoguelikeOperatorGadget` `Screen` `SealGadget` `SpeedupField` `SubEquip` `Team` `Timeline` `TransPointFirst` `TransPointFirstGadget` `TransPointSecond` `TransPointSecondGadget` `Tree` `UllnteractGadget` `Vehicle` `ViewPoint` `Water` `WidgetGadget` `WindSeed` `Worktop`
 
-#### 列数 (No. of Columns)
+#### 列数
 
-设定列数。
+设定[<font>**`类型筛选器`**</font>](#类型筛选器)显示列数。
 
 - 范围: `2 ~ 5`
 
-#### 实体列表 (Entity List)
+---
 
-已加载的所有实体。
+#### 实体列表
 
-#### 按类型分类 (Group by Type)
+列出已加载的所有实体。
+
+#### 按类型分组
 
 是否按类型分类 而不是一页显示所有。
 
-#### 显示空的分类 (Show Empty Types)
+#### 显示空类型
 
 是否显示没有实体的分类。
 
-#### 仅显示Oculi (Show Only Oculi)
+#### 仅显示神瞳
 
-仅显示Oculi。
+仅显示神瞳。
 
-#### 传送: 最近 (Teleport: Closest)
+#### 传送: 最近的
 
 传送到最近的实体。
 
-#### 传送: 最远 (Teleport: Farthest)
+#### 传送: 最远的
 
 传送到最远的实体。
 
-#### 召唤所有 (Summon All) 
+#### 召唤所有
 
 将所有实体传送至自己。
 
-#### 放逐所有 (Banish All)
+#### 逐回所有
 
-将所有实体放逐至`y=0`。
+将所有实体逐回至`y=0`。
 
-#### 复制所有信息 (Copy All Details)
+#### 复制所有详细信息
 
 复制所有实体的信息。
 
 #### CSV兼容 (CSV Friendly) 
 
-复制的信息将会用逗号分隔 并在复制时删除坐标。
+复制的信息将会用逗号分隔 并删除坐标。
 
 #### 包含头文件 (Include Headers)
 
 是否包含头文件。
 
-#### T
+#### 
 
 传送到当前实体。
 
@@ -143,47 +143,61 @@ editLink: true
 
 复制到ESP [自定义筛选器](/cheat/bkebi-gc/10_more_guis#自定义筛选器) 。
 
+#### C
+
+复制ConfigID。
+
+#### C
+
+复制RuntimeID。
+
+---
+
 ### 坐标位置
 
 坐标位置。
 
 - 使用此功能可能会出现严重的闪退。
 
-#### 玩家场景ID (Player scene id)
+#### 玩家场景id
 
 玩家场景ID。
 
-#### 地图场景ID (Map scene id)
+#### 地图场景id
 
 地图场景ID。
 
-#### 角色位置 (Avatar position)
+#### 角色坐标
 
-角色位置。
+角色坐标。
 
-#### 相对位置 (Relative position)
+#### 相对坐标
 
-相对位置。
+相对坐标。
 
-#### 水平位置 (Level position)
+#### 水平坐标 (Level position)
 
-水平位置。
+水平坐标。
 
-#### 传送位置 (Teleport position)
+---
+
+#### 传送坐标
 
 设定将要传送到的位置。
 
-#### 地图传送 (Map teleport)
+#### 地图传送
 
 使用地图传送 将玩家传送至指定位置的地面。
 
-#### 世界传送 (World teleport)
+#### 世界传送
 
 使玩家直接移动至指定区域。
 
 - 现版本 此功能无法生效。
 
-#### 地面位置信息 (Ground pos info)
+---
+
+#### 地面坐标信息
 
 地面位置信息。
 
@@ -201,21 +215,25 @@ editLink: true
 
 设定检测长度。
 
-#### 所有 (All)
+#### 全部
 
-所有。
+全部。
 
-#### 复制位置 (Copy Position)
+---
 
-复制角色位置。
+#### 复制坐标
 
-#### 复制所有信息 (Cocy All Info)
+复制角色坐标。
 
-复制所有位置信息。
+#### 复制全部信息
 
-#### 复制为Json (Copy as json)
+复制全部位置信息。
+
+#### 复制为Json
 
 复制包含随机名称的Json位置信息。
+
+---
 
 ### 地图管理器
 
@@ -224,6 +242,8 @@ editLink: true
 #### 地标 (Waypoints)
 
 地标信息。 
+
+---
 
 ### 帧率曲线
 
@@ -235,4 +255,14 @@ editLink: true
 
 ### Lua执行器
 
-???<font color=ffffff>Lua执行器。???</font>
+Lua执行器。
+
+#### Lua文件路径
+
+设定需要执行的Lua文件的路径。
+
+- Lua例子: [BoobsChanger.lua](https://discord.com/channels/1065348698197991605/1065452338426417233/1080355460353368085)
+
+#### 执行
+
+执行设定的Lua文件。

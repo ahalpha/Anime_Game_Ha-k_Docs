@@ -9,16 +9,17 @@ editLink: true
 
 ## 第三方文件
 
-#### [#整合收集] [ (@Xcating) Json_Integration](https://github.com/Xcating/Json_Integration)
+#### [#整合收集] [ (@Xcating) Json_Integration](https://github.com/Xcating/Json_Integration) 
 
-#### [#混合挂机点位] [ (@SDK-China) Sleep_TP](https://wwzb.lanzouf.com/invXS0lwy0yh)
+#### [#混合挂机点位] [ (@SDK-China) Sleep_TP](https://wwzb.lanzouf.com/invXS0lwy0yh) 
 
 #### [#混合挂机点位] [ (@持青伞) Teyvat_TP_Json](#) (QQ群组)157639326
 
-#### [#指定收集]  [ (@AXC00) AXC00_JSON](https://github.com/AXC00/json)
+#### [#指定收集] [ (@AXC00) AXC00_JSON](https://github.com/AXC00/json) 
 
-#### [#指定收集] [ (@Sam5440) Genshin_Impact_Teleport](https://github.com/Sam5440/Genshin_Impact_Teleport)
+#### [#指定收集] [ (@Sam5440) Genshin_Impact_Teleport](https://github.com/Sam5440/Genshin_Impact_Teleport) 
 
+#### [#更多] [Bkebi Discord resources](https://discord.com/channels/1026295403282436097/1064953611056058479) 
 
 ## 简易教程
 

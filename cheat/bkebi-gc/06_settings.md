@@ -15,6 +15,12 @@ editLink: true
 
 禁用Mhyprot2 Bypass。
 
+### 屏蔽指标输出
+
+不在控制台中输出指标库的垃圾信息。
+
+- 更改将在游戏重新启动后生效。
+
 ### 语言
 
 设定Bkebi-GC所有界面的语言。
@@ -23,6 +29,7 @@ editLink: true
 
 - 可选择: 
   - English | EN (DEBUG)
+  - Indonesian | ID
   - Russian | RU
   - Simplified Chinese | ZH-CN
   - Traditional Chinese | ZH-TW
@@ -48,7 +55,7 @@ editLink: true
 
 #### 刷新
 
-若你之前设置过 则会重新显示已经应用的[<font>**`命令行参数`**</font>](#命令行参数)。
+若你设置过 则会显示之前设定的[<font>**`命令行参数`**</font>](#命令行参数)。
 
 #### 应用
 
@@ -88,9 +95,13 @@ editLink: true
 
 - 仅在使用`injector.exe`注入器启动时生效。
 
+- 更改将在游戏重新启动后生效。
+
 #### 文件日志
 
 将会在`./logs`文件夹保存日志。
+
+- 更改将在游戏重新启动后生效。
 
 ### 状态窗口
 
@@ -215,6 +226,14 @@ Bkebi-GC的界面相关设定。
 ```
 
 - [<font>**`区域`**</font>](#)可选择: `usa` - 美服 | `eu` - 欧服 | `asia` - 亚服 | `thm` - 港澳台服
+
+- 可以给予`injector.exe`以下命令行参数来同时启动多个Bkebi-GC实例。
+
+```bat
+ -i
+```
+
+- 也可以使用 [GenshinAccount](https://discord.com/channels/1026295403282436097/1064953611056058479/1080166591012012152) 快速切换账号。
 
 #### 账号名称
 

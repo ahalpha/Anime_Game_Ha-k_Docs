@@ -6,7 +6,7 @@
 
 :::info
 
-本文章截至最后一次更新此作弊端的内容的时间为2023-2-27 22:09 此时Bkebi-GC的最新版本为v1.0.3(Re-upload)。
+本文章截至最后一次更新此作弊端的内容的时间为2023-3-2 23:50 此时Bkebi-GC的最新版本为v1.1.0。
 
 :::
 
@@ -16,11 +16,11 @@
 
 ## 简单介绍
 
-相比Acrepi，拥有更快速度的更新，并且修复了许多Bug和增加了许多新功能。不过自Bkebi-1.0.4开始，加入了一种验证机制，并且每天名额有限。
+相比Acrepi，拥有更快速度的更新，并且修复了许多Bug和增加了许多新功能。不过自Bkebi-1.1.0开始，加入了一种验证机制，并且每天名额有限。
 
 ## 主要功能
 
-**在[<font>**`Akebi-GC`**</font>](/cheat/akebi-gc/#主要功能)的基础上增加了:** **`元素队列模式`** **`远程工具`** **`自动解密`** **`元素光环`** **`怪物替换`** **`自定义传送 PRO`** **`...`**
+**在[<font>**`Akebi-GC`**</font>](/cheat/akebi-gc/#主要功能)的基础上增加了:** **`元素队列模式`** **`移动增强`** **`不死`** **`远程工具`** **`自动解密`** **`元素光环`** **`使用AFK攻击`** **`怪物替换`** **`自定义传送 Pro`** **`菜单解锁器`** **`...`**
 
 ## 官方链接
 
@@ -38,7 +38,109 @@
 
 ## 预览图
 
-#### &nbsp;(更新时间: 2023/2/null)&nbsp;
+![Bkebi-GC-1.png](image/Bkebi-GC-1.png)
+
+![Bkebi-GC-2.png](image/Bkebi-GC-2.png)
+
+![Bkebi-GC-3.png](image/Bkebi-GC-3.png)
+
+![Bkebi-GC-4.png](image/Bkebi-GC-4.png)
+
+![Bkebi-GC-5.png](image/Bkebi-GC-5.png)
+
+![Bkebi-GC-6.png](image/Bkebi-GC-6.png)
+
+![Bkebi-GC-7.png](image/Bkebi-GC-7.png)
+
+![Bkebi-GC-8.png](image/Bkebi-GC-8.png)
+
+![Bkebi-GC-9.png](image/Bkebi-GC-9.png)
+
+![Bkebi-GC-10.png](image/Bkebi-GC-10.png)
+
+![Bkebi-GC-11.png](image/Bkebi-GC-11.png)
+
+![Bkebi-GC-12.png](image/Bkebi-GC-12.png)
+
+![Bkebi-GC-13.png](image/Bkebi-GC-13.png)
+
+![Bkebi-GC-14.png](image/Bkebi-GC-14.png)
+
+![Bkebi-GC-16.png](image/Bkebi-GC-16.png)
+
+![Bkebi-GC-17.png](image/Bkebi-GC-17.png)
+
+![Bkebi-GC-18.png](image/Bkebi-GC-18.png)
+
+![Bkebi-GC-19.png](image/Bkebi-GC-19.png)
+
+![Bkebi-GC-20.png](image/Bkebi-GC-20.png)
+
+![Bkebi-GC-21.png](image/Bkebi-GC-21.png)
+
+![Bkebi-GC-22.png](image/Bkebi-GC-22.png)
+
+![Bkebi-GC-23.png](image/Bkebi-GC-23.png)
+
+![Bkebi-GC-24.png](image/Bkebi-GC-24.png)
+
+![Bkebi-GC-25.png](image/Bkebi-GC-25.png)
+
+![Bkebi-GC-26.png](image/Bkebi-GC-26.png)
+
+![Bkebi-GC-27.png](image/Bkebi-GC-27.png)
+
+![Bkebi-GC-28.png](image/Bkebi-GC-28.png)
+
+![Bkebi-GC-29.png](image/Bkebi-GC-29.png)
+
+![Bkebi-GC-30.png](image/Bkebi-GC-30.png)
+
+![Bkebi-GC-31.png](image/Bkebi-GC-31.png)
+
+![Bkebi-GC-32.png](image/Bkebi-GC-32.png)
+
+![Bkebi-GC-33.png](image/Bkebi-GC-33.png)
+
+![Bkebi-GC-34.png](image/Bkebi-GC-34.png)
+
+![Bkebi-GC-35.png](image/Bkebi-GC-35.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-36.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-37.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-38.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-39.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-40.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-41.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-42.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-43.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-44.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-45.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-46.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-47.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-48.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-49.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-50.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-51.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-52.png)
+
+![Bkebi-GC-36.png](image/Bkebi-GC-53.png)
 
 ## 人员
 

@@ -13,7 +13,7 @@ editLink: true
 
 #### 地图传送
 
-控制 [传送 - 地图传送 - 启用](/cheat/bkebi-gc/03_teleport#启用-热键-1) 。
+控制 [传送 - 地图传送 - 启用](/cheat/bkebi-gc/03_teleport#启用-热键-2) 。
 
 #### 自动砍树
 
@@ -21,23 +21,27 @@ editLink: true
 
 #### 无限体力
 
-控制 [玩家 - 无限体力 - 启用](/cheat/bkebi-gc/01_player#启用-热键-3) 。
+控制 [玩家 - 无限体力 - 启用](/cheat/bkebi-gc/01_player#启用-热键-6) 。
 
 #### 坠落控制
 
-控制 [玩家 - 坠落控制 - 启用](/cheat/bkebi-gc/01_player#启用-热键-2) 。
+控制 [玩家 - 坠落控制 - 启用](/cheat/bkebi-gc/01_player#启用-热键-4) 。
 
 #### 自动奔跑
 
 控制 [玩家 - 自动奔跑 - 启用](/cheat/bkebi-gc/01_player#启用-热键-1) 。
 
+#### 武器附魔
+
+控制 [玩家 - 攻击效果 - 武器附魔](/cheat/bkebi-gc/01_player#武器附魔-热键) 。
+
 #### 宝箱指示器
 
 控制 [视图 - 显示宝箱指示器](/cheat/bkebi-gc/05_visuals#显示宝箱指示器-热键) 。
 
-#### 自动仙灵
+#### 自动解密
 
-控制 [世界 - 自动仙灵 - 自动仙灵](/cheat/bkebi-gc/02_world#自动仙灵-热键) 。
+控制 [世界 - 自动解谜 - 自动解谜](/cheat/bkebi-gc/02_world#自动解谜-热键) 。
 
 #### 立即打开队伍界面
 
@@ -53,7 +57,11 @@ editLink: true
 
 #### 风之翼
 
-控制 [视图 - 风之翼 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-4) 。
+控制 [视图 - 风之翼 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-5) 。
+
+#### GM 图标
+
+控制 [视图 - GM 图标](/cheat/bkebi-gc/05_visuals#gm-图标-热键) 。
 
 #### 敌人变傻
 
@@ -87,9 +95,9 @@ editLink: true
 
 控制 [世界 - 怪物替换 - 启用](/cheat/bkebi-gc/02_world#启用-热键-14) 。
 
-#### 浏览器
+#### 元素光环
 
-控制 [视图 - 浏览器 - 启动](/cheat/bkebi-gc/05_visuals#启用-热键-1) 。
+控制 [世界 - 元素光环 - 启用元素光环](/cheat/bkebi-gc/02_world#启用元素光环-热键) 。
 
 #### 交互式地图
 
@@ -113,11 +121,19 @@ editLink: true
 
 #### 皮肤修改器
 
-控制 [视图 - 皮肤修改器 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-5) 。
+控制 [视图 - 皮肤修改器 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-7) 。
+
+#### 菜单解锁器
+
+控制 [视图 - 菜单解锁器 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-6) 。
+
+#### 浏览器
+
+控制 [视图 - 浏览器 - 启动](/cheat/bkebi-gc/05_visuals#启用-热键-1) 。
 
 #### 纹理修改器
 
-控制 [视图 - 纹理修改器 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-6) 。
+控制 [视图 - 纹理修改器 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-8) 。
 
 #### 动画修改器
 
@@ -125,7 +141,11 @@ editLink: true
 
 #### 表情修改器
 
-控制 [视图 - 表情修改器 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-3) 。
+控制 [视图 - 表情修改器 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-4) 。
+
+#### 攻击队友
+
+控制 [玩家 - 攻击队友 - 启用](/cheat/bkebi-gc/01_player#启用-热键-5) 。
 
 ### 自动挑战
 
@@ -221,7 +241,7 @@ editLink: true
 
 #### 自由移动
 
-控制 [玩家 - 自由移动 - 启用](/cheat/bkebi-gc/01_player#启用-热键-4) 。
+控制 [玩家 - 自由移动 - 启用](/cheat/bkebi-gc/01_player#启用-热键-7) 。
 
 #### 允许在空中释放技能
 
@@ -238,6 +258,18 @@ editLink: true
 #### 防拉回
 
 控制 [玩家 - 自由移动 - 防拉回](/cheat/bkebi-gc/01_player#防拉回-热键) 。
+
+### 移动增强
+
+ [玩家 - 移动增强](/cheat/bkebi-gc/01_player#移动增强) 。
+
+#### 移动增强
+
+ [玩家 - 移动增强 - 启用](/cheat/bkebi-gc/01_player#启用-热键-3) 。
+
+#### 超级跳
+
+ [玩家 - 移动增强 - 超级跳](/cheat/bkebi-gc/01_player#超级跳-热键) 。
 
 ### 自动对话
 
@@ -311,10 +343,6 @@ editLink: true
 
 控制 [世界 - 自动摧毁物体 - 杂物](/cheat/bkebi-gc/02_world#启用-热键-2) 。
 
-#### 摧毁植物
-
-控制 [世界 - 自动摧毁物体 - 植物](/cheat/bkebi-gc/02_world#启用-热键-2) 。
-
 #### 摧毁特殊宝箱
 
 控制 [世界 - 自动摧毁物体 - 特殊对象](/cheat/bkebi-gc/02_world#启用-热键-2) 。
@@ -326,6 +354,18 @@ editLink: true
 控制 [世界 - 自动摧毁物体 - 特殊宝箱](/cheat/bkebi-gc/02_world#启用-热键-2) 。
 
 - 目前有问题。
+
+### 自定义传送 Pro
+
+ [传送 - 自定义传送 Pro](/cheat/bkebi-gc/03_teleport#自定义传送-pro) 。
+
+#### 自定义传送 Pro
+
+控制 [传送 - 自定义传送Pro - 启用](/cheat/bkebi-gc/03_teleport#启用-热键-1) 。
+
+#### 自动传送
+
+控制 [传送 - 自定义传送Pro - 自动传送](/cheat/bkebi-gc/03_teleport#自动传送-热键-1) 。
 
 ### 杀戮光环
 
@@ -346,6 +386,10 @@ editLink: true
 #### 即死模式
 
 控制 [世界 - 杀戮光环 - 即死模式](/cheat/bkebi-gc/02_world#即死模式-热键) 。
+
+#### 使用自动攻击
+
+控制 [世界 - 杀戮光环 - 使用AFK攻击](/cheat/bkebi-gc/02_world#使用afk攻击-热键) 。
 
 ### 生物吸附
 
@@ -401,7 +445,7 @@ editLink: true
 
 #### 无限视距
 
-控制 [视图 - 无限视距 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-1) 。
+控制 [视图 - 无限视距 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-2) 。
 
 #### 视场修改
 
@@ -413,7 +457,7 @@ editLink: true
 
 #### 自定义天气
 
-控制 [视图 - 自定义天气 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-2) 。
+控制 [视图 - 自定义天气 - 启用](/cheat/bkebi-gc/05_visuals#启用-热键-3) 。
 
 #### 闪电
 
