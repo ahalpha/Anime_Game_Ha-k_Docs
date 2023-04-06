@@ -1,3 +1,0 @@
-# BingbuHack
-
-*(comeing soon...)*
